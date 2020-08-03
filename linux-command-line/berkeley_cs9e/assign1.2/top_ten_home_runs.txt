@@ -1,0 +1,10 @@
+Canseco,Jose
+McGriff,Fred
+McGwire,Mark
+Murray,Eddie
+Gaetti,Gary
+Clark,Jack
+Carter,Joe
+Tartabull,Danny
+Snyder,Cory
+Winfield,Dave
